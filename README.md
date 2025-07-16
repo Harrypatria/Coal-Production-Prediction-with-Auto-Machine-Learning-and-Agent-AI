@@ -1,11 +1,21 @@
 # 🧮 Coal Production Prediction and Agentic AI
 
-## 🌟 Overview
 [![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=tozReWteUAQ)
 
-<div align="center">
-  <img src="feature_importance_comprehensive.png" width="80%" alt="Feature Importance Analysis">
-</div>
+## 🌟 Overview
+
+Welcome to a groundbreaking exploration in coal production forecasting, where the rugged expertise of mining meets the precision of advanced machine learning. Leveraging data from cleaned_coalpublic2015.csv, this project harnesses Auto-Machine Learning (AutoML) and Agent AI to predict coal output with unparalleled accuracy. Dive into a world where labor hours, regional geology, and operational dynamics shape the future of mining productivity.
+
+## 🌍 Background
+
+In the mining industry, coal production is a complex interplay of human effort, geological variance, and operational efficiency. Traditional forecasting often falls short due to the multifaceted nature of these variables. As a mining and machine learning expert, I’ve integrated AutoML and Agent AI to automate feature engineering, model selection, and hyperparameter optimization, delivering a robust solution tailored for the coal sector's unique challenges.
+
+## 🎯 Objectives
+
+- Engineer a state-of-the-art predictive model for coal production using AutoML and Agent AI.
+- Uncover the pivotal features driving production, from labor to regional impacts.
+- Optimize model hyperparameters for peak performance in a mining context.
+- Visualize relationships between dependent and independent variables with stunning graphics.
 
 ## 📊 Problem Statement (Situation)
 Coal production forecasting faces unique challenges:
