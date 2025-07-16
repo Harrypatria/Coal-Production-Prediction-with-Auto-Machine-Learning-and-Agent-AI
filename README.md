@@ -126,7 +126,6 @@ python auto_ml.py
 
 <div align="center">
 ## 🌟 Support This Project
-> "Every expert was once a beginner. Your mining analytics journey starts here."
 
 Follow me on GitHub: [![GitHub Follow](https://img.shields.io/github/followers/Harrypatria?style=social)](https://github.com/Harrypatria?tab=followers)
 
