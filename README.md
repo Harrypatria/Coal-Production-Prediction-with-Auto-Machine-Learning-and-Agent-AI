@@ -2,7 +2,6 @@
 
 ## 🌟 Overview
 [![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=tozReWteUAQ)
-> *Accurate production forecasting is critical for mine planning, resource allocation, and profitability in coal mining operations. This project leverages AutoML to build predictive models that identify key operational drivers of coal production.*
 
 <div align="center">
   <img src="feature_importance_comprehensive.png" width="80%" alt="Feature Importance Analysis">
