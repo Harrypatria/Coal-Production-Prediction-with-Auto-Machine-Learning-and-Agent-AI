@@ -1,4 +1,4 @@
-# 🧮 Coal Production Prediction with Auto Machine Learning
+# 🧮 Coal Production Prediction and Agentic AI
 
 ## 🌟 Overview
 [![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=tozReWteUAQ)
@@ -115,6 +115,7 @@ pip install -r requirements.txt
 python auto_ml.py
 ```
 
+<div align="center">
 ## 🌟 Support This Project
 > "Every expert was once a beginner. Your mining analytics journey starts here."
 
