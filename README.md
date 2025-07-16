@@ -1,13 +1,3 @@
-# 🧮 Integrating Agentic AI and Machine Learning
-
-## 🌟 Overview
-
-[![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=tozReWteUAQ)
-
-Click the thumbnail above to watch the video on YouTube.
-Here's the enhanced README.md integrating your requirements with stunning visualizations and expert framing:
-
-```markdown
 # 🧮 Coal Production Prediction with Auto Machine Learning
 
 ## 🌟 Overview
