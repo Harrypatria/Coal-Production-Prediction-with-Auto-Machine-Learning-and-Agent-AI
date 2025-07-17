@@ -102,6 +102,10 @@ R^2_{\text{train}} &= 0.9495
   <img src="feature_importance.png" width="60%" alt="Top Production Drivers">
 </div>
 
+<div align="center">
+  <img src="heatmap.png" width="60%" alt="Top Production Drivers">
+</div>
+
 **Key Insights**:
 1. Labor efficiency dominates production:
    ```math
