@@ -2,6 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=tozReWteUAQ)
 
+[![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)]([https://www.youtube.com/watch?v=tozReWteUAQ](https://youtu.be/CqOzsTgHWNM))
+
+
 ## 🌟 Overview
 
 Welcome to a groundbreaking exploration in coal production forecasting, where the rugged expertise of mining meets the precision of advanced machine learning. Leveraging data from cleaned_coalpublic2015.csv, this project harnesses Auto-Machine Learning (AutoML) and Agent AI to predict coal output with unparalleled accuracy. Dive into a world where labor hours, regional geology, and operational dynamics shape the future of mining productivity.
