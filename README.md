@@ -2,7 +2,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=tozReWteUAQ)
 
-[![Watch the video](https://img.youtube.com/vi/tozReWteUAQ/hqdefault.jpg)]([https://www.youtube.com/watch?v=tozReWteUAQ](https://youtu.be/CqOzsTgHWNM))
+[![Watch the video](https://img.youtube.com/vi/CqOzsTgHWNM/hqdefault.jpg)](https://www.youtube.com/watch?v=CqOzsTgHWNM)
 
 
 ## 🌟 Overview
